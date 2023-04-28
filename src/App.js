@@ -10,7 +10,7 @@ const App = () => {
         <CurrencyConverter />
         <NewsFeed />
       </div>
-      <p>Please Note: If the news feed displays no articles, the months max API requests have been reached</p>
+      <p>Please Note: If the currency converter and/or the news feed displays nothing, the months max API requests have been reached</p>
     </div>
 
     
